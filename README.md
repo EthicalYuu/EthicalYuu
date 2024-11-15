@@ -1,4 +1,4 @@
-👋 Hi there! I'm Yussif Abdalla, a passionate Computer Engineer with a keen interest in software development. Currently on the journey to becoming a proficient programmer, I specialize in Java programming and love scripting in Python.
+👋 Hi there! I'm Yussif Abdalla, a passionate Computer Engineer with a deep interest in software development. I enjoy exploring tools and programming languages, tailoring my choices to suit the unique needs of each project I undertake.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
